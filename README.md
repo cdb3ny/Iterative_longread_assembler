@@ -6,7 +6,9 @@
 
 #You must have the following non-standard software installed and included in your path to run the script:
 #CANU (Koren S, Walenz BP, Berlin K, Miller JR, Phillippy AM. Canu: scalable and accurate long-read assembly via adaptive k-mer weighting and repeat separation. Genome Research 2017; doi: https://doi.org/10.1101/gr.215087.116)
+
 #Blasr (https://github.com/PacificBiosciences/blasr)
+
 #Seqtk (https://github.com/lh3/seqtk)
 
 You must have the follow files under these names in a single input/output folder that will be used for the run.
