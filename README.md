@@ -5,6 +5,7 @@
 #Requirements:  The following code employed a Linux Ubuntu Server run from the command line.  
 
 #You must have the following non-standard software installed and included in your path to run the script:
+
 #CANU (Koren S, Walenz BP, Berlin K, Miller JR, Phillippy AM. Canu: scalable and accurate long-read assembly via adaptive k-mer weighting and repeat separation. Genome Research 2017; doi: https://doi.org/10.1101/gr.215087.116)
 
 #Blasr (https://github.com/PacificBiosciences/blasr)
@@ -19,4 +20,4 @@ You must have the follow files under these names in a single input/output folder
 
 “seed0.blasr.sort.list.out.fixed” – this file must exist but be completely empty
 
-The forloop in this bash script includes 10 cycles of assembly.  Each round identifies the reads matching the starting genome and assembles on the available data.  The full manuscript for more information.
+#The forloop in this bash script includes 10 cycles of assembly.  Each round identifies the reads matching the starting genome and assembles on the available data.  The full manuscript for more information.
