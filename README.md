@@ -21,3 +21,5 @@ You must have the follow files under these names in a single input/output folder
 “seed0.blasr.sort.list.out.fixed” – this file must exist but be completely empty
 
 #The forloop in this bash script includes 10 cycles of assembly.  Each round identifies the reads matching the starting genome and assembles on the available data.  See the full manuscript for more information.
+
+#If you want to use this script, you will need to substitute all of your own appropriate paths to folders and starting files.
